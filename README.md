@@ -8,8 +8,10 @@
     <img alt="Twitter: aissameXyz" src="https://img.shields.io/twitter/follow/aissameXyz.svg?style=social" />
   </a>
 </p>
+## Projet
 
 > Dans le cadre de notre seconde année du cycle ingénieurs en Génie Informatique à l’ENSAT, il nous est proposé un projet nous permettant de mettre en pratique nos connaissances et nos compétences au travers d’un cahier des charges ayant pour finalité la conception et le développement d’un outil en accord avec nos intérêts professionnels.
+![home](home.png?raw=true "home page")
 
 ## Author
 
@@ -25,4 +27,3 @@
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
